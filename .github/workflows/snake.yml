@@ -1,4 +1,13 @@
-    - name: Generate github-contribution-grid-snake
+name: Generate github-contribution-grid-snake
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+
+jobs:
+  generate-snake:
+    name: Generate github-contribution-grid-snake
+    runs-on: ubuntu-latest
+    steps:
       uses: Platane/snk@v3
       with:
         comment_tag_name: SNAKE
