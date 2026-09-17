@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### Follow Me
+![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000
 <!--
 **N0vR3l/N0vR3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
