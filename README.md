@@ -5,6 +5,7 @@
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0vR3l&show_icons=true&hide=contribs,prs,issues&show=all_time_contribs)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=N0vR3l)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
