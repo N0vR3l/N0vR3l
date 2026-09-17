@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@N0vR3l)
-![Static Badge](https://img.shields.io/badge/Discord?style=flat&logo=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fc9yASqCdtc)
+![Static Badge](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord&link=https%3A%2F%2Fdiscord.gg%2Fc9yASqCdtc)
 
 <!--
 **N0vR3l/N0vR3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
