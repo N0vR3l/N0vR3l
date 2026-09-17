@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=N0vR3l&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide=contribs,prs,issues&show=all_time_contribs&card_width=500px)](https://github-stats-extended.vercel.app/api?username=N0vR3l&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide=contribs,prs,issues&show=all_time_contribs)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=N0vR3l&layout=compact&hide_title=true&langs_count=4&theme=shades-of-purple&card_width=500px)](https://github-stats-extended.vercel.app/api/top-langs?username=N0vR3l&layout=compact&hide_title=true&langs_count=4&theme=shades-of-purple)
 
 
