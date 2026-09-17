@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Сontributions Snake Animation" src="https://githubusercontent.com">
+  <img alt="GitHub Сontributions Snake Animation" src="https://githubusercontent.com/N0vR3l/N0vR3l/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### Follow Me
