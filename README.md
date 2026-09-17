@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=Discord)](https://discord.gg/c9yASqCdtc)
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0vR3l)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=N0vR3l)](https://github.com/stats-organization/github-stats-extended&show_icons=true)
 
 
 <!--
