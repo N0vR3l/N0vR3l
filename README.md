@@ -4,8 +4,11 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=N0vR3l&layout=compact&hide_title=true&langs_count=4&theme=shades-of-purple&card_width=400px)](https://github-stats-extended.vercel.app/api/top-langs?username=N0vR3l&layout=compact&hide_title=true&langs_count=4&theme=shades-of-purple&card_width=400px)
 
-<!-- SNAKE:START -->
-<!-- SNAKE:END -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Сontributions Snake Animation" src="https://githubusercontent.com">
+</picture>
 
 ### Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@N0vR3l)
