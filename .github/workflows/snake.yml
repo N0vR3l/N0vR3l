@@ -1,0 +1,15 @@
+    - name: Generate github-contribution-grid-snake
+      uses: Platane/snk@v3
+      with:
+        comment_tag_name: SNAKE
+        # Указываем имя пользователя
+        github_user_name: ${{ github.repository_owner }}
+        
+        # Передаем созданный секретный токен для доступа к приватным репозиториям
+        token: ${{ secrets.SNAKE_TOKEN }}
+
+        # Ваши настройки файлов и палитры
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
